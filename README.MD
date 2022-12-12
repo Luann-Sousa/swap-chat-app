@@ -8,7 +8,7 @@ esse comando e para baixar a pasta "node_modules" com todas suas dependêcia que
 sua máquina localmente.</br>
 -> expo start</br>
 
-## APLICAÇÃO PARA COMUNICAÇÕES.</br>
+## APLICAÇÃO PARA COMUNICAÇÕES</br>
 
 [*] -> usuário só poderá entrar no sistema se estiver cadastro em nosso aplicativo.</br>
 
